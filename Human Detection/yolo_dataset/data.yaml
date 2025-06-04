@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Human_Detection/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: ['non-human', 'human']
